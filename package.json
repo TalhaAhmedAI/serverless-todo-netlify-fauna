@@ -1,0 +1,11 @@
+{
+  "name": "serverless-todo-netlify-fauna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Talha Ahmed <49815075+TalhaAhmedAI@users.noreply.github.com>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ]
+}
